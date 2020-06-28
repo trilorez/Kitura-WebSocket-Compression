@@ -2,6 +2,7 @@
 build
 .vagrant
 Package.resolved
+.swiftpm
 *.pkg
 *.xcodeproj
 *.DS_Store
